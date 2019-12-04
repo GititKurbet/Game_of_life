@@ -2,6 +2,12 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.Random;
 
+/*
+Ecxercise for university
+Game of life on board of 10*10
+The user must approve continue to next generation.
+*/
+
 class Board extends JPanel{
     int board[][] = new int[10][10];
 
